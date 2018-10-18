@@ -29,7 +29,8 @@ ul {
   padding: 5px;
   cursor: pointer;
 }
-.result:hover {
+.result:hover,
+.selected {
   background-color: #eee;
 }
 
